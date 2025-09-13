@@ -8,9 +8,10 @@ O projeto foca em aprendizado prático de **React**, consumo de **APIs externas*
 
 ## Tecnologias Utilizadas
 
-- **React** – Construção da interface de usuário.  
+- **React** – Biblioteca JavaScript para interfaces de usuário.
+- **JavaScript/JSX** – Lógica e estrutura do código React.
+- **CSS** – Estilização da interface.
 - **Vite** – Ferramenta de build e desenvolvimento.  
-- **CSS / JavaScript / JSX** – Estilização e lógica do projeto.  
 
 ---
 
